@@ -6,3 +6,13 @@ spec/dummy/db/*.sqlite3-journal
 spec/dummy/log/*.log
 spec/dummy/tmp/
 spec/dummy/.sass-cache
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
